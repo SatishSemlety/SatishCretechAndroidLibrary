@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3a59f14-4d32-484f-9b6c-ccd6ec3c9540" name="Default Changelist" comment="" />
+    <list default="true" id="b3a59f14-4d32-484f-9b6c-ccd6ec3c9540" name="Default Changelist" comment="Commit changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +124,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602670686444</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit changes">
+      <created>1602741355804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602741355804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +150,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="Commit changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1602674605778">
@@ -152,5 +162,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602674609168" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602741569212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602741569212" />
+    <state x="439" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602741754645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602741754645" />
   </component>
 </project>
